@@ -1,0 +1,12 @@
+body{ background-color: aliceblue;}
+.fixedimg{
+    
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+    }
+    .fixedimg1{
+    background-image: url(../images/languages-around-the-world.png);
+    }
+    .fixedimg2{
+    background-image: url(../images/motivational-quote-small-steps-every-day-2893.jpg)
